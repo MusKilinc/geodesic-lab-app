@@ -1,11 +1,7 @@
-streamlit
-pandas
-numpy
-matplotlib.pyplot
-matplotlib
-scipy.linalg
-io
-matplotlib.backends.backend_agg
-plotly.graph_objects
-plotly.express
+streamlit>=1.45.1
+pandas>=2.2.3
+numpy>=2.2.6
+matplotlib>=3.8.0
+scipy>=1.10.1
+plotly>=5.18.0
 # vs. uygulamanızın ihtiyacı olan diğer paketler
