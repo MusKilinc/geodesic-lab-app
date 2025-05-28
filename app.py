@@ -1,6 +1,5 @@
 # app.py
 import streamlit as st
-from GeodesicDome import run_geodesic_analysis, plot_dome, plot_dome_plotly
 
 st.title("🌐 Geodesic Dome Analysis App")
 
