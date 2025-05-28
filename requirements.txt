@@ -1,5 +1,4 @@
 streamlit
 pandas
 numpy
-GeodesicDome.py
 # vs. uygulamanızın ihtiyacı olan diğer paketler
