@@ -1,4 +1,11 @@
 streamlit
 pandas
 numpy
+matplotlib.pyplot
+matplotlib
+scipy.linalg
+io
+matplotlib.backends.backend_agg
+plotly.graph_objects
+plotly.express
 # vs. uygulamanızın ihtiyacı olan diğer paketler
